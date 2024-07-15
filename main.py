@@ -4,7 +4,8 @@
     #print(x) printa pulando a linha em cada acesso a lista
     #print(x, end=" ") # printa colocando no final de cada acesso um espaço, sem pular a linha
 
-"""lista_npcs = [
+"""
+lista_npcs = [
     {"name": "Monstro 1", "level": 1},
     {"name": "Monstro 2", "level": 2},
     {"name": "Monstro 3", "level": 3},
